@@ -137,4 +137,4 @@ MIT — use it in anything.
 
 ---
 
-Built by [Joshua Paulsen]([https://github.com/JoshuaPaulsen](https://www.linkedin.com/in/joshuapaulsen31/))
+Built by [Joshua Paulsen](https://www.linkedin.com/in/joshuapaulsen31/)
