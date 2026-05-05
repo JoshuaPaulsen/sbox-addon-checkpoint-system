@@ -16,6 +16,16 @@ Three pieces work together:
 
 ## Installation
 
+Add the package into the S&box editor:
+
+```
+1. Select the Asset Browser tab in the S&box editor.
+2. Navigate to the Asset Browser tab -> Find the cloud asset store
+3. Search for Checkpoint System from rwtrcsc
+
+https://sbox.game/rwtrcsc/checkpoint_system/
+```
+
 Clone into your S&box project directory:
 
 ```
