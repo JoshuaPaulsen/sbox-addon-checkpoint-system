@@ -1,4 +1,4 @@
-# Checkpoint System for S&box
+# Checkpoint System for the S&box engine
 
 Place and manage checkpoints in your S&box game with a built-in editor tool. Left-click to place checkpoints directly in the scene — no manual component wiring required.
 
