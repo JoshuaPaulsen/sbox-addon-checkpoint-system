@@ -1,6 +1,6 @@
 {
   "Title": "Checkpoint System",
-  "Type": "addon",
+  "Type": "library",
   "Org": "rwtrcsc",
   "Ident": "checkpoint_system",
   "Schema": 1,
@@ -23,6 +23,6 @@
     "PerMapRanking": false,
     "LeaderboardType": "None",
     "CsProjName": "",
-    "StartupScene": "scenes/minimal.scene"
+    "StartupScene": "checkpoint_system/demo.scene"
   }
 }
